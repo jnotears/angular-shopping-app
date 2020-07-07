@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-shopping-online"
+    }
+  },
+  "defaultProject": "angular-shopping-online",
+  "cli": {
+    "analytics": "b35b5610-75f4-4c47-bfed-e7a7fe3f740c"
+  }
 }
